@@ -22,5 +22,5 @@ I help businesses turn the web into a structured database. With over **100+ succ
 ---
 
 ### 📈 Proven Track Record:
-Check out my [Fiverr Profile](https://www.fiverr.com/rakibur_islam) to see reviews from  satisfied clients. 
+Check out my public repositories.
 Available for new projects in 2026! 🚀
